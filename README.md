@@ -1,2 +1,2 @@
 # Anomaly_Detection
-Anomaly detection using multivariate gaussion.
+Anomaly detection using multivariate gaussian.
