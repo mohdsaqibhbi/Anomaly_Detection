@@ -6,7 +6,7 @@ Train Anomaly detection using multivariate gaussian method on real data. The imp
 - Clone the repo using `git clone https://github.com/mohdsaqibhbi/Anomaly_Detection.git`.
 - Go to this directory using `cd Anomaly_Detection`
 - Create virtual environment.
-- Install dependencies using `pip install -r requirements.txt`.
+- Install dependencies using `pip3 install -r requirements.txt`.
 - Run everything step by step
 
 ## Things you can learn here
