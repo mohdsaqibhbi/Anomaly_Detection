@@ -8,5 +8,4 @@ Train Anomaly detection using multivariate gaussian method on real data. The imp
 - Scikit-learn
 
 # How to run
-Clone the repo by using `git clone https://github.com/mohdsaqibhbi/Anomaly_Detection.git`
-Then run everything step by step.
+Clone the repo by using `git clone https://github.com/mohdsaqibhbi/Anomaly_Detection.git`, then run everything step by step.
