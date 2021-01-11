@@ -1,6 +1,6 @@
 # Anomaly_Detection
 Train Anomaly detection using multivariate gaussian method on real data. The implementation is done step by step in the jupyter-notebook.
-![](https://github.com/mohdsaqibhbi/Anomaly_Detection/readme.jpg)
+![Anomaly](https://github.com/mohdsaqibhbi/Anomaly_Detection/blob/master/readme.jpg)
 
 ## How to run
 - Clone the repo using `git clone https://github.com/mohdsaqibhbi/Anomaly_Detection.git`.
